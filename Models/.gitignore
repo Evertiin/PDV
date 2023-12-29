@@ -1,0 +1,22 @@
+﻿# Arquivos temporários gerados pela IDE Visual Studio
+.vs/
+bin/
+obj/
+
+
+# Arquivos de dependências e pacotes
+*.dll
+*.exe
+*.pdb
+*.dll.config
+
+# Arquivos de compilação
+*.user
+*.suo
+*.cache
+*.bak
+*.log
+
+# Pasta de saída de compilação
+[Tt]emp/
+[Oo]bj/
